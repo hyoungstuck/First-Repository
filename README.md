@@ -2,5 +2,5 @@
 
 This is my first repository
 
-I am very enw to programming 
-I love programming 
+I am very enw to programming. 
+I love programming. 
